@@ -12,7 +12,7 @@
     </div>
     <router-view class="main"/>
     <div class="weui-footer">
-        <p class="weui-footer__text">Copyright &copy; 2019-2021 LiangLiouse</p>
+        <p class="weui-footer__text">Copyright &copy; 2019-2021 LiangLouise</p>
     </div>
 </div>
 </template>
