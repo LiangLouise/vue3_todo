@@ -1,5 +1,15 @@
 # todo
 
+A simple ToDo App.
+
+Implemented in Vue3 + Typescript, using composition API.
+
+State management using Provide/Inject as Vuex requires too much configs in typescript as of now.
+
+## UI Library
+
+[Weui](https://github.com/Tencent/weui)
+
 ## Project setup
 ```
 npm install

@@ -1,12 +1,12 @@
-import { createStore } from 'vuex'
+import loadToDos from "./storage";
 
-export default createStore({
-  state: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
-  modules: {
-  }
-})
+export interface ToDoItem {
+    title: string;
+    content: string;
+}
+
+export const todoListRef = Symbol();
+
+export {
+    loadToDos,
+};
