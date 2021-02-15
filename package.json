@@ -1,6 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
+  "homepage": "https://lianglouise.github.io/vue3_todo/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
